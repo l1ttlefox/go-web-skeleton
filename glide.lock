@@ -1,0 +1,39 @@
+hash: 132b1cf8663bafdbaaf6715e261bcefb7d8e3f6993ad41811e958d17e39a2478
+updated: 2016-12-26T12:02:15.704720163+02:00
+imports:
+- name: github.com/gin-gonic/gin
+  version: e2212d40c62a98b388a5eb48ecbdcf88534688ba
+  subpackages:
+  - binding
+  - render
+- name: github.com/golang/protobuf
+  version: 2402d76f3d41f928c7902a765dfc872356dd3aad
+  subpackages:
+  - proto
+- name: github.com/jmoiron/sqlx
+  version: cac998c4f0959c19c638c523e374fa8e4e0bcfe3
+  subpackages:
+  - reflectx
+- name: github.com/lib/pq
+  version: 5bf161122cd640c2a5a2c1d7fa49ea9befff31dd
+  subpackages:
+  - oid
+- name: github.com/manucorporat/sse
+  version: ee05b128a739a0fb76c7ebd3ae4810c1de808d6d
+- name: github.com/mattn/go-isatty
+  version: 30a891c33c7cde7b02a981314b4228ec99380cca
+- name: golang.org/x/crypto
+  version: f6b343c37ca80bfa8ea539da67a0b621f84fab1d
+- name: golang.org/x/net
+  version: f315505cf3349909cdf013ea56690da34e96a451
+  subpackages:
+  - context
+- name: golang.org/x/sys
+  version: d75a52659825e75fff6158388dddc6a5b04f9ba5
+  subpackages:
+  - unix
+- name: gopkg.in/go-playground/validator.v8
+  version: c193cecd124b5cc722d7ee5538e945bdb3348435
+- name: gopkg.in/yaml.v2
+  version: a5b47d31c556af34a302ce5d659e6fea44d90de0
+testImports: []

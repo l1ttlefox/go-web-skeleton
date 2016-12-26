@@ -1,0 +1,17 @@
+{
+  "Database": {
+    "User": "username",
+    "Password": "password",
+    "Host": "localhost",
+    "Port": 5432,
+    "Name": "database name",
+    "Params": "aditional params, should start with ?, example: ?sslmode=disable"
+  },
+  "Email": {
+    "Username": "",
+    "Password": "",
+    "Hostname": "",
+    "Port": 0,
+    "From": ""
+  }
+}
